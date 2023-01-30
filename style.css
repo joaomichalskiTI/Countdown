@@ -21,7 +21,7 @@ body{
 }
 
 .parag1{
-    font-family: 'amatic SC',cursive;
+    font-family: Arial, Helvetica, sans-serif;
     margin-top: 10px;
     display: flex;
     justify-content:center ;
@@ -49,11 +49,11 @@ body{
     gap: 10px;
     margin-top: 15px;
     font-size: 35px;
-    font-family: Jazz LET, fantasy;
+    font-family: Arial, Helvetica, sans-serif;
     color: rgba(249, 37, 4, 0.46);
 }
 .parag2{
-    font-family: 'amatic SC',cursive;
+    font-family:Arial, Helvetica, sans-serif;
     color: rgba(215, 55, 23, 0.897);
     background: rgba(255, 255, 255, 0.202);
     box-shadow: 0 8px 32px 0 rgb(230, 117, 117);
@@ -67,7 +67,7 @@ body{
     font-size: 8px;
 }
 .mostrador2{
-    font-family: Jazz LET, fantasy;
+    font-family: Arial, Helvetica, sans-serif;
     border: 2px solid rgba(244, 83, 83, 0.604);
     background: rgba(255, 255, 255, 0.202);
     box-shadow: 2px 8px 70px 2px rgb(230, 117, 117);
@@ -85,8 +85,8 @@ body{
     color:rgba(249, 37, 4, 0.46);
 }
 .text{
-    font-size: 25px;
+    font-size: 15px;
 }
 .text2{
-    font-size: 15px;
+    font-size: 8px;
 }
