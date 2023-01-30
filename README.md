@@ -1,3 +1,3 @@
 # Countdown
-Dimensões para Iphone X
+Dimensões para IPhone X
 https://j-a-countdown.netlify.app/
